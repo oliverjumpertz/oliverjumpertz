@@ -6,6 +6,10 @@ My favorite stack is TypeScript in combination with Rust/WASM in the frontend an
 ### Stats section
 [![Excelbrium's github stats](https://github-readme-stats.vercel.app/api?username=excelbrium&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/excelbrium) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelbrium&theme=tokyonight)](https://github.com/excelbrium)
 
+## Want to contact me?
+You can usually find me on [Twitter](https://twitter.com/oliverjumpertz).
+Just send me a DM, and I'll try to answer as soon as possible. 😄
+
 <!--
 **excelbrium/excelbrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
