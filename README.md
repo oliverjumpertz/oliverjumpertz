@@ -1,7 +1,9 @@
 ### Hi there 👋
 I'm Oliver, a Software and Cloud Architect working in the financial industry.
 
-My favorite stack is TypeScript in combination with Rust/WASM in the frontend and in the backend (with Node).
+One of my favorite stacks is TypeScript in combination with Rust/WASM in the frontend and in the backend (with Node).
+
+My other love is Go, as well as Docker and Kubernetes. I'm hugely in favor of containerization and DevOps / Site Reliability Engineering.
 
 ### Stats section
 [![Excelbrium's github stats](https://github-readme-stats.vercel.app/api?username=excelbrium&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/excelbrium) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelbrium&theme=tokyonight)](https://github.com/excelbrium)
