@@ -6,7 +6,7 @@ One of my favorite stacks is TypeScript in combination with Rust/WASM in the fro
 My other love is Solidity, the language of the Ethereum VM.
 
 ### Stats section
-[![Excelbrium's github stats](https://github-readme-stats.vercel.app/api?username=excelbrium&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/excelbrium) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelbrium&theme=tokyonight)](https://github.com/excelbrium)
+[![Oliver's github stats](https://github-readme-stats.vercel.app/api?username=oliverjumpertz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/oliverjumpertz) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverjumpertz&theme=tokyonight)](https://github.com/oliverjumpertz)
 
 ## Want to contact me?
 You can usually find me on [Twitter](https://twitter.com/intent/follow?screen_name=oliverjumpertz).
